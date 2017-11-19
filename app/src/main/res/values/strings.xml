@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">DiaryApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tabbedlists">tabbedlists</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_diary_entries_layout">DiaryEntriesLayout</string>
+    <string name="title_activity_diary_entries">DiaryEntriesActivity</string>
+    <string name="dateDefaultPlaceholder">Date</string>
+    <string name="diaryEntryPlaceholder">Placeholder</string>
+    <string name="diary_entries_nav_title">Diary entries</string>
+    <string name="sleep_data_nav_title">Sleep Data</string>
+    <string name="reminders_nav_title">Reminders</string>
+    <string name="timeDefaultPlaceholder">Time</string>
+    <string name="ReminderInputBtnDone">Done</string>
+    <string name="ReminderInputLabelText">Time:</string>
+    <string name="ReminderTitle">Reminder</string>
+    <string name="RemindersActivityTitle">Remiders</string>
+    <string name="SleepDataActivityTitle">SleepData</string>
+    <string name="DiaryEntriesActivityTitle">DiaryEntries</string>
+    <string name="warnReminderInPast">Won\'t add reminder in the past</string>
+    <string name="reminderAfterToastText">Will run after %ds</string>
+    <string name="reminderEnterMessage">Enter message</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reminderAddDate">Enter date:</string>
+    <string name="ReminderMessageLable">Enter reminder message:</string>
+    <string name="SleepDataHeader">Your sleep time in months:</string>
+    <string name="enter_time">Enter time:</string>
+    <string name="time">Time</string>
+    <string name="enter_content">Enter content</string>
+    <string name="delete">Delete</string>
+    <string name="done">Done</string>
+    <string name="timeFormatInvalid">Time format invalid!</string>
+    <string name="dateFormatInvalid">Date format invalid!</string>
+</resources>
