@@ -100,7 +100,6 @@ public class DiaryEntriesActivity extends AppCompatActivity {
                 date.set(Calendar.HOUR_OF_DAY, hourOfDay);
                 date.set(Calendar.MINUTE, minute);
                 addEntry(datePassed, value);
-                return;
             }
         });
 
@@ -108,7 +107,6 @@ public class DiaryEntriesActivity extends AppCompatActivity {
 
             public void onClick(DialogInterface dialog, int which) {
                 // TODO Auto-generated method stub
-                return;
             }
         });
         alert.show();
