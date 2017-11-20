@@ -171,9 +171,8 @@ public class DiaryEntriesActivity extends AppCompatActivity {
                     db.updateDiaryEntry(entr);
                 }
                 db.close();
-
-                updateEntries();
             }
         }
+        updateEntries();
     }
 }
