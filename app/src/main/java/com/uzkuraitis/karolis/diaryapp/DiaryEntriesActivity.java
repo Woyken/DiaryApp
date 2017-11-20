@@ -117,7 +117,7 @@ public class DiaryEntriesActivity extends AppCompatActivity {
     public void addDiaryEntryButton(View v)
     {
         Intent intent = new Intent(this, AddDiaryEntryActivity.class);
-        intent.putExtra("id", datePassed.getTimeInMillis());
+        intent.putExtra("dateTime", datePassed.getTimeInMillis());
         startActivityForResult(intent, REQUEST_CODE_ADD_DIARY_ENTRY);
     }
 
